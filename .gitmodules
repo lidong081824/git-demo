@@ -1,0 +1,3 @@
+[submodule "git-submodule-demo"]
+	path = git-submodule-demo
+	url = https://github.com/lidong081824/git-submodule-demo
